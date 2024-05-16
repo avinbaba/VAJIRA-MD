@@ -7,9 +7,9 @@
 
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "Type the Session-id",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=qQEQgJzS#SrfktyPR6p7HTmp1RsphPghFumx1fboRPbD3hFWbYmk"
         },
         "PREFIX": {
             "description": "put prefix here",
